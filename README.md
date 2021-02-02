@@ -1,6 +1,8 @@
-# Road Runner Quickstart
+# Glendale Prep Robotics - Base Code
 
-An example FTC project using [Road Runner](https://github.com/acmerobotics/road-runner). **Note:** Road Runner is in alpha and many of its APIs are incubating.
+# Road Runner Quickstart Extension
+
+Our team's code builds off of the Road Runner Quick Start: an example FTC project using [Road Runner](https://github.com/acmerobotics/road-runner). **Note:** Road Runner is in alpha and many of its APIs are incubating.
 
 ## Installation
 
