@@ -3,6 +3,8 @@ package org.firstinspires.ftc.teamcode.util;
 /**
  * A class that cycles through different values according to the number of values specified.
  */
+
+//TODO add a javadoc for classes and improve top explanation for how the class works.
 public class Cycle {
     private int value = 1;
     private int numValues;

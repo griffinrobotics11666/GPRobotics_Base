@@ -3,6 +3,8 @@ package org.firstinspires.ftc.teamcode.util;
 /**
  * A class that makes it easier to deal with booleans, buttons, and toggles
  */
+//TODO add a javadoc for classes and improve top explanation for how the class works.
+
 public class Button {
     private boolean lastState = false;
     private boolean state = false;

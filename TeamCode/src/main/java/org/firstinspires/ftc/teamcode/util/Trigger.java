@@ -3,6 +3,9 @@ package org.firstinspires.ftc.teamcode.util;
 /**
  * A class that makes it easier to deal with gamepad triggers.
  */
+
+//TODO add a javadoc for classes and improve top explanation for how the class works.
+
 public class Trigger {
     private float value = 0.0f;
     private float lastValue = 0.0f;
